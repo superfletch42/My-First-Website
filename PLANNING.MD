@@ -12,10 +12,11 @@ This will have a minimum of 3 pages.
 # Page two: History / Current Education
 +This page will have more in depth info on my current learning:
 +Current college
+└──Colleges and Universities I'd like to attend next year.
 +Resources used
 └──links to resources
-+Why I am interested in Computer science
-+Where I think it might lead me
++Why I am interested in Computer science (Might be moved to the top rather than the bottom)
++Where I think it might lead me (Might also be moved to the top just under my interest in CS)
 
 # Page three: My interests and hobbies
 This page will be on my hobbies and (maybe) backround info:
@@ -34,3 +35,4 @@ This page will be on my hobbies and (maybe) backround info:
 +Volunteer work
 +Paid jobs
 +Where I hope to end up
+♣
