@@ -30,7 +30,7 @@ This page will be on my hobbies and (maybe) backround info:
 +(maybe) Trivia on other things like favourite animal, colour, food, etc...
 └──(maybe) Pictures and links
 
-#(Optional)Page four: Work History
+# (Optional)Page four: Work History
 +Volunteer work
 +Paid jobs
 +Where I hope to end up
