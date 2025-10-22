@@ -24,8 +24,8 @@ This page will be on my hobbies and (maybe) backround info:
 +Music
 └──links to music
 +Video games
-└──ictures and links (Where possible) of video games I've enjoyed
-+(maybe)Where I have traveled to and where I would like to visit
+└──Pictures and links (Where possible) of video games I've enjoyed
++(maybe) Where I have traveled to and where I would like to visit
 └──(maybe) Show some pictures from my time in those places.
 +(maybe) Trivia on other things like favourite animal, colour, food, etc...
-└──(maybe)Pictures and links
+└──(maybe) Pictures and links
