@@ -1,6 +1,10 @@
 # My-First-Website
 
 This will have a minimum of 3 pages.
++Each page will have the same background of something like a Forest/Pixel Forest. Or maybe a Gradient fade from a light blue to a silver/grey
++The foreground colours will be white or and off white with text being black.
++Same font of Josefin Sans (Subject to change) used all over the website
++(maybe)Listed subjects with drop down menus for further information.
 
 # The main page will have some basic info about me: things like
 +Name
@@ -35,4 +39,3 @@ This page will be on my hobbies and (maybe) backround info:
 +Volunteer work
 +Paid jobs
 +Where I hope to end up
-♣
