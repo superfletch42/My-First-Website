@@ -1,41 +1,31 @@
-# My-First-Website
+Website dedicated to Red Pandas, cause why not?
 
-This will have a minimum of 3 pages.
-+Each page will have the same background of something like a Forest/Pixel Forest. Or maybe a Gradient fade from a light blue to a silver/grey
-+The foreground colours will be white or and off white with text being black.
-+Same font of Josefin Sans (Subject to change) used all over the website
-+(maybe)Listed subjects with drop down menus for further information.
+Page one:
+This page will have basic info, facts and links/pathways to page 2 and 3
+Aiming to make it colourful and maybe use a picture as a backgroud if I can find a good one.
 
-# The main page will have some basic info about me: things like
-+Name
-+basic info on hobbies
-+basic info on education
-└──Pictures of hobies and interest.
-+Contact info and other platforms to link with me on
+page two:
+This page will be about the conservation of them.
+It will show the habitat,
+threats to them and their habitat,
+detail on them as an umbrella species
+mentions of the endergement status
+what organisation(s) help them, and how
 
-# Page two: History / Current Education
-+This page will have more in depth info on my current learning:
-+Current college
-└──Colleges and Universities I'd like to attend next year.
-+Resources used
-└──links to resources
-+Why I am interested in Computer science (Might be moved to the top rather than the bottom)
-+Where I think it might lead me (Might also be moved to the top just under my interest in CS)
+page three:
+This will be more fun.
+links and videos
+(copyright free) pictures
+Might link / embed a zoo's live stream camera.
 
-# Page three: My interests and hobbies
-This page will be on my hobbies and (maybe) backround info:
-+Favourite shows / movies
-└──Pictures / clips of those above
-+Music
-└──links to music
-+Video games
-└──Pictures and links (Where possible) of video games I've enjoyed
-+(maybe) Where I have traveled to and where I would like to visit
-└──(maybe) Show some pictures from my time in those places.
-+(maybe) Trivia on other things like favourite animal, colour, food, etc...
-└──(maybe) Pictures and links
+TIMELINE
 
-# (Optional)Page four: Work History
-+Volunteer work
-+Paid jobs
-+Where I hope to end up
+Aiming to have all the framework for pages 1-3 done by 28th of november
+The framework will be text, headers, some pics and linking ability to swap between pages.
+
+December 1st I want to give the website more personality by colouring it, adidng backgrounds, and general visual flare.
+May change and experiment more with fonts in this phase as well as mess around with general colours. 
+
+By 5th of december I hope to be done in the largest parts and just tweek and adjust things I either missed or changed my mind.
+
+Any additional time will probably be spent looking at ways to either add additional pages or further improving the current ones.
