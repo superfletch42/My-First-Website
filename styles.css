@@ -1,3 +1,72 @@
-/* ============================================
-   GLOBAL STYLES & RESET
-============================================= */
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+
+    background-image: url("Pictures/Bamboo - Clement Souchet - Unsplash.avif");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.midbox {
+    max-width: 800px;
+    margin: 0 auto;
+    color: black;
+    background-color: rgb(198, 224, 102);
+    border: 5px solid #eeae2d;
+    padding: 200px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+section {
+    max-width: 700px;
+    margin: 0 auto 40px auto;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 12px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    opacity: 0.7;
+}
+
+
+.factbox {
+    background-image: url("Pictures/RedPandaYawn-WillRust-Unsplash.avif");
+    background-size: cover;
+     background-position: right;
+    border: 5px solid #eeae2d;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.factbox ul {
+    padding: 15px;
+    border-radius: 10px;
+    list-style-position: inside;
+    color: white;
+    margin-left: 250px;
+}
+
+#WR {
+    color: wheat;
+    font-size: 12px;
+    text-align: right;
+    opacity: 0.7;
+    margin-top: -10px;
+}
