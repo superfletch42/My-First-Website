@@ -1,31 +1,52 @@
-Website dedicated to Red Pandas, cause why not?
+# My first website - dedicated to red pandas
 
-Page one:
-This page will have basic info, facts and links/pathways to page 2 and 3
-Aiming to make it colourful and maybe use a picture as a backgroud if I can find a good one.
+It will be a website with a minimum of 3 pages (Might add more)
 
-page two:
-This page will be about the conservation of them.
-It will show the habitat,
-threats to them and their habitat,
-detail on them as an umbrella species
-mentions of the endergement status
-what organisation(s) help them, and how
+## Overview
 
-page three:
-This will be more fun.
-links and videos
-(copyright free) pictures
-Might link / embed a zoo's live stream camera.
+This project consists of three pages which are detailed below.
 
-TIMELINE
+### Page 1 --- Introduction
 
-Aiming to have all the framework for pages 1-3 done by 28th of november
-The framework will be text, headers, some pics and linking ability to swap between pages.
+- Basic information about red pandas
+- Fun facts
+- Links to Page 2 and Page 3
+- A colourful layout with a possible background image
 
-December 1st I want to give the website more personality by colouring it, adidng backgrounds, and general visual flare.
-May change and experiment more with fonts in this phase as well as mess around with general colours. 
+### Page 2 --- Conservation and Charity
 
-By 5th of december I hope to be done in the largest parts and just tweek and adjust things I either missed or changed my mind.
+- Info on red pandas and their endangerment status.
+- Threats to them and their enviroment
+- Info on the Red Panda Network (And maybe more)
 
-Any additional time will probably be spent looking at ways to either add additional pages or further improving the current ones.
+### Page 3 --- Extras / Fun Content
+
+- Notable red pandas in fiction and real world
+- Links and videos
+- Copyright-free images
+- Possible embedded zoo livestream camera
+
+## Rough timeline
+
+### By November 28
+
+- Build the full framework for Pages 1--3
+- Add basic text, headings, images, and page linking
+
+### December 1
+
+- Add visual personality (colour, backgrounds, layout)
+- Experiment with fonts and general styling
+
+### By December 5
+
+- Finalise major structure
+- Tweak and adjust anything missing or improved during design
+
+### Afterwards
+
+
+- Explore adding more pages
+- Improve style and functionality
+- Consider new features or content
+- Maybe add a sql thing or something cause I can?
