@@ -28,14 +28,14 @@ This project consists of three pages which are detailed below.
 
 ## Rough timeline
 
-### By November 28
+### By November 28 (finished on 26th November)
 
 - Build the full framework for Pages 1--3
 - Add basic text, headings, images, and page linking
 
-### December 1
+### December 1 (Started on 27th November)
 
-- Add visual personality (colour, backgrounds, layout)
+- Add visual effects and more personality (colour, backgrounds, layout, (maybe background music?)
 - Experiment with fonts and general styling
 
 ### By December 5
@@ -55,6 +55,11 @@ This project consists of three pages which are detailed below.
 
 ### Explanation of 4+ HTML tags
 Brief info on some of tha tags I used
+
+---<header><body><footer>
+These are all to do with the structure of the website. The <header> is at the top. It should contain the title <h1>. It may also include additional tags like <h2>m <p>. Links to other areas of the website are also advisible.
+The <body> contains the bulk of the website. It would pretty much have most things like <p>, <ul>, <ol>, <li>, <img> and pretty much everything else when applicable to the needs of the website.
+The <footer> is at the bery bottom of the website. It might have contact info, copyrights, as well as links to specific parts of the website or others.
 
 ---<h1><h2><h3>
 Each of these tags are headers. <h1> is the main header and all subsequent tags are sub headers
