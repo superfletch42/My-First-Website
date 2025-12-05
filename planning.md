@@ -90,4 +90,11 @@ The navigation buttons at the top of the website had a lot of changes. Originall
 
 The general colours of my website I messed around with a bit, but ultimately decided on the ligher green, orange and brown colours. They had a nice earthy look to them that I think gives the website great personality and works well with the bamboo background.
 
+Also I only ever used on id and it as for #WR, Just needed to one according to the requirements
+
 All in all, I'm pretty happy with my first website attempt.
+
+## Resources I used:
+-  **Dundrum College Of Further Education** (Or Dublin College of further education now?), I got guidance from Joshua Aaron which was very valuable for a beginner like myself.
+-  **https://www.khanacademy.org/computing/computer-programming** I think this tutorial was the most useful for me and one I consistently went back to.
+-  **https://quickref.me/html** So increadibly useful. There is way to many tags to remember. It also had quick mini tutorials that helped a bunch.
