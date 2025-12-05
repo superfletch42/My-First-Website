@@ -49,4 +49,4 @@ This project consists of three pages which are detailed below.
 - Explore adding more pages
 - Improve style and functionality
 - Consider new features or content
-- Maybe add a sql thing or something cause I can?
+
