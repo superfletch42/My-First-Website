@@ -2,7 +2,6 @@ body {
     margin: 0;
     padding: 20px;
     font-family: Arial, sans-serif;
-
     background-image: url("Pictures/Bamboo - Clement Souchet - Unsplash.avif");
     background-size: cover;
     background-position: center;
@@ -16,7 +15,7 @@ body {
     color: black;
     background-color: rgb(198, 224, 102);
     border: 5px solid #eeae2d;
-    padding: 200px;
+    padding: 40px 200px 200px 200px;
     border-radius: 15px;
     box-shadow: 0 0 20px rgba(0,0,0,0.3);
 }
@@ -44,29 +43,166 @@ footer {
     opacity: 0.7;
 }
 
+.frame {
+   background-size: cover;    
+   background-position: center;
+   border: 5px solid #eeae2d;
+   border-radius: 30px;
+   display: inline-block;
+   width: 100%;
+   height: 400px;
+   background-position: center 100%;
+}
+
+.reference {
+    font-size: 12px;
+    text-align: right;
+    margin-top: 4px;
+    padding-top: 4px;
+    border-top: 1px solid #ccc;
+    color: #666;
+  }
+  
+.reference a {
+    color: #666;
+    text-decoration: none;
+  }
+
 
 .factbox {
     background-image: url("Pictures/RedPandaYawn-WillRust-Unsplash.avif");
     background-size: cover;
-     background-position: right;
+     background-position: 30% center;
     border: 5px solid #eeae2d;
-    border-radius: 15px;
-    padding: 20px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    border-radius: 30px;
+    padding: 40px 70px;
 }
 
 .factbox ul {
-    padding: 15px;
-    border-radius: 10px;
+    padding: 30px;
+    border-radius: 30px;
     list-style-position: inside;
     color: white;
-    margin-left: 250px;
+    margin-left: 180px;
 }
 
-#WR {
+#WR { /* I mostly did an Id here to prove I knew they existed.*/
     color: wheat;
     font-size: 12px;
     text-align: right;
     opacity: 0.7;
     margin-top: -10px;
+}
+
+
+.box {
+    background-color:#8B4513;
+    border: 5px solid #eeae2d;
+    border-radius: 15px;
+    padding: 40px 70px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    color: white;
+}
+
+.box ul {
+    padding: 30px;
+    border-radius: 10px;
+    list-style-position: inside;
+    color: white;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: white;
+    border: 3px solid #eeae2d;
+    border-radius: 10px;
+    overflow: hidden;
+    font-family: Georgia, serif
+}
+
+.table th {
+    background-color: #eeae2d;
+    color: white;
+    padding: 12px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.table td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.table tr:last-child td {
+    border-bottom: none;
+}
+
+.table caption {
+    caption-side: top;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.toolbar {
+    max-width: 1155px;
+    margin: 0 auto 20px auto    ;
+    background-color: rgb(198, 224, 102);
+    border: 5px solid #eeae2d;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.toolbar button {
+    margin: 0 10px;
+    padding: 8px 20px;
+    border: none;
+    background: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.toolbar button.viewing {
+    background: #eeae2d ;
+    color: white;
+}
+
+.bottompage {
+    max-width: 1155px;
+    margin: 0 auto;
+    background-color: rgb(198, 224, 102);
+    border: 5px solid #eeae2d;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.video-frame {
+   position: relative;
+   width: 100%;
+   height: 400px; 
+   overflow: hidden;
+   border: 5px solid #eeae2d;
+   border-radius: 30px;
+}
+
+.Contact {max-width: 800px;
+    margin: 40 auto;
+    color: black;
+    background-color:#8B4513;
+    border: 5px solid #eeae2d;
+    padding: 30px 40px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+@media (max-width: 768px) {
+    .midbox {
+        padding: 20px;
+    }
+    .toolbar {
+        padding: 10px;
+    }
 }
