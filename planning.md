@@ -77,7 +77,7 @@ This project consists of three pages which are detailed below.
 - **`<td>`**: Table data cell for standard content.  
 - **`<caption>`**: Optional title describing the table.
 
-###Discussion of my HTML and CSS evolution.
+### Discussion of my HTML and CSS evolution.
 
 I started off with a completely blank template, despite the offered ones (I found it really tedious and annoying to have to keep changing thins in the html and css and opted to start from scratch)
 
