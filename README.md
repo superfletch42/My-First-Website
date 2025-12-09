@@ -21,12 +21,12 @@ This is a school project website
 ## Features
 
 - **Navigation toolbar** across all pages.
-- **Responsive design**: Works on desktops and mobile devices (Hopefully, I've not actually tried mobile.)
+- **Responsive design**: Works on desktops and mobile devices (Hopefully, I've not actually tried mobile, but I tried to add it in.)
 - **Image frames** with Alt text and references.
 - **Fact boxes & content boxes** To seperate information.
 - **Table** to show off the diet of a redpanda.
 - **Embedded videos**: One documentry of Red pandas and one (Hopefully still up) Live stream of the Trevor Lovejoy zoo's red pandas.
-- **Contact form** on the last page.
+- **Contact form** on the last page .
 
 
 
@@ -48,3 +48,4 @@ This is a school project website
   - Red panda images by Alexander Van Steenberge and Will Rust
 - Red Panda distribution map from [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/f/f1/RedPanda_distribution.png)
 - YouTube videos embedded from respective channels.
+
