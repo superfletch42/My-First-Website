@@ -98,3 +98,4 @@ All in all, I'm pretty happy with my first website attempt.
 -  **Dundrum College Of Further Education** (Or Dublin College of further education now?), I got guidance from Joshua Aaron which was very valuable for a beginner like myself.
 -  **https://www.khanacademy.org/computing/computer-programming** I think this tutorial was the most useful for me and one I consistently went back to.
 -  **https://quickref.me/html** So increadibly useful. There is way to many tags to remember. It also had quick mini tutorials that helped a bunch.
+-  **https://www.theodinproject.com/paths/foundations/courses/foundations** Very useful at the start for an solid understanding
