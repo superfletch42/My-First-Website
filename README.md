@@ -1,7 +1,8 @@
 {"variant":"email","title":"README for Red Panda Website","recipient":""}
 # All About Red Pandas Website
 
-This is a school project website
+# Github Link
+https://github.com/superfletch42
 
 ## Project Structure
 
@@ -21,12 +22,12 @@ This is a school project website
 ## Features
 
 - **Navigation toolbar** across all pages.
-- **Responsive design**: Works on desktops and mobile devices (Hopefully, I've not actually tried mobile, but I tried to add it in.)
+- **Responsive design**: Works on desktops and mobile devices (Hopefully, I've not actually tried mobile.)
 - **Image frames** with Alt text and references.
 - **Fact boxes & content boxes** To seperate information.
 - **Table** to show off the diet of a redpanda.
 - **Embedded videos**: One documentry of Red pandas and one (Hopefully still up) Live stream of the Trevor Lovejoy zoo's red pandas.
-- **Contact form** on the last page .
+- **Contact form** on the last page.
 
 
 
